@@ -8,3 +8,4 @@ VOLTA ELECTROTECH WEBSITE - READY PACKAGE
 6. Open the Local URL shown by Vite.
 
 Do not delete src/App.jsx, src/App.css, or public/volta-logo.png.
+Website deployment update
